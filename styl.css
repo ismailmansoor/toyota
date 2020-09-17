@@ -1,0 +1,29 @@
+.audi{
+    width: 80px;
+    height: 55px;
+}
+.fnt{
+    font-size: smaller;
+}
+.siz{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    padding: 10px 0 10px;
+}
+/* .clc{
+    background-color: rgb(212, 207, 207); */
+}
+.xxx{
+    width: 100%;
+}
+
+.bordin{
+    border: 1px solid rgb(202, 187, 187);
+}
+
+span{
+    font-size: small;
+}
